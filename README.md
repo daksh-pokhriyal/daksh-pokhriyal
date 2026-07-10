@@ -63,7 +63,7 @@ An ML-powered tool that automatically sorts and organizes photos using face reco
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,python,js,sql" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,mysql" alt="Languages"/>
 
 **Frontend**
 
@@ -75,10 +75,15 @@ An ML-powered tool that automatically sorts and organizes photos using face reco
 <br/>
 <img src="https://img.shields.io/badge/LangChain-D97757?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
 <img src="https://img.shields.io/badge/scikit--learn-D97757?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/NumPy-D97757?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-D97757?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-**Dev Tools**
+**Dev Tools & Deployment**
 
-<img src="https://skillicons.dev/icons?i=vscode" alt="Dev Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" alt="Dev Tools"/>
+<br/>
+<img src="https://img.shields.io/badge/Render-D97757?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+<img src="https://img.shields.io/badge/Canva-D97757?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 
 </div>
 
@@ -122,6 +127,7 @@ An ML-powered tool that automatically sorts and organizes photos using face reco
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-pokhriyal-14582830a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dakshpokhriyal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itisdakshpokhriyal@gmail.com)
 
 </div>
