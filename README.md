@@ -8,9 +8,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=daksh-pokhriyal&color=D97757&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/daksh-pokhriyal?label=Followers&style=flat-square&color=D97757" alt="Followers"/>
-
 </div>
 
 ---
